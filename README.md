@@ -19,7 +19,7 @@ java.io.FileNotFoundException: gradle.properties (No such file or directory)
 	at org.gradle.wrapper.WrapperExecutor.execute(WrapperExecutor.java:108)
 	at org.gradle.wrapper.GroovyWrapperMain.main(GroovyWrapperMain.java:61)
 ```
-
+To find that, I ran ./gradlew idea again. It looks like I didn't have everything so it downloaded some things and the fetching of the module is working.
 
 # References
 * https://guides.github.com/features/mastering-markdown/
