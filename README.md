@@ -24,5 +24,9 @@ To find that, I ran ./gradlew idea again. It looks like I didn't have everything
 To get to the module and to nagivate to the folder, I used IntelliJ because in my opinion its easier than using the terimal.
 Then I made the java class.
 
+```
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 6 column 4 path $.contents.text
+```
+
 # References
 * https://guides.github.com/features/mastering-markdown/
