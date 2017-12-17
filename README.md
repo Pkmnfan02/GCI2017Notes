@@ -21,7 +21,7 @@ java.io.FileNotFoundException: gradle.properties (No such file or directory)
 ```
 To find that, I ran ./gradlew idea again. It looks like I didn't have everything so it downloaded some things and the fetching of the module is working.
 
-To get to the module and to nagivate to the folder, I used IntelliJ
+To get to the module and to nagivate to the folder, I used IntelliJ because in my opinion its easier than using the terimal.
 
 # References
 * https://guides.github.com/features/mastering-markdown/
