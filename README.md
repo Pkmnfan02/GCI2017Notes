@@ -30,5 +30,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 ```
 so I am going back a step and just redoing everything.
 
+I redid everything and I finished step 4 and it all works out. I changed the code abit, I took out the text that was there and I added my own text in there.
+
 # References
 * https://guides.github.com/features/mastering-markdown/
